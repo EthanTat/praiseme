@@ -1,3 +1,4 @@
+library(devtools)
 #Edit
 usethis::use_r("praise")
 
@@ -19,3 +20,4 @@ usethis::use_test("praise")
 devtools::test()
 
 devtools::test_coverage()
+
