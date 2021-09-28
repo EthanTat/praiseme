@@ -20,4 +20,4 @@ usethis::use_test("praise")
 devtools::test()
 
 devtools::test_coverage()
-1+1
+
